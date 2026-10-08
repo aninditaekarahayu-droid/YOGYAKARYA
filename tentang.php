@@ -45,7 +45,7 @@
           [
             'nama'      => 'Anindita Eka Rahayu',
             'role'      => 'Programmer & Back-end',
-            'nisn'       => '3084871864',
+            'nisn'       => '-',
             'jurusan'     => 'Pengembangan Perangkat Lunak dan Gim',
             'deskripsi' => 'Bertanggung jawab atas desain dan konsep game Yodogo. Memiliki minat di bidang desain game edukatif berbasis budaya lokal.',
             'foto'      => 'images/Anindita.jpeg',
@@ -53,7 +53,7 @@
           [
             'nama'      => 'Mahamda Aklio N.',
             'role'      => 'Artist & Front-end',
-            'nisn'       => '987654321',
+            'nisn'       => '-',
             'jurusan'     => 'Informatika',
             'deskripsi' => 'Bertanggung jawab atas pengembangan game Jogjaksara menggunakan Unity. Berfokus pada game edukasi 2D berbasis aksara Jawa.',
             'foto'      => 'images/Mahamda.jpeg',
